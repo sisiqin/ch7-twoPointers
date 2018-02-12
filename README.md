@@ -13,6 +13,8 @@
 
 - 2/3/4 sum
 
+- k sum咋办！！！！ n个元素里选k个，是一个**组合问题** ！ 深搜！
+
 - 2/3/4 sum closest
 
 - 2/3/4 sum with duplication
